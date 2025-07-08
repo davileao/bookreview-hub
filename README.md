@@ -117,35 +117,37 @@ JWT_SECRET="your-jwt-secret"
 
 ### 🏠 Homepage
 
-![Homepage](./docs/screenshots/homepage.png)
+![Homepage](https://github.com/user-attachments/assets/56c0689c-125c-4af9-bd93-f9c6499bf711)
+
 _Modern book catalog with search functionality and featured books_
 
 ### 📖 Book Details Page
 
-![Book Details](./docs/screenshots/book-details.png)
+![Book Details](https://github.com/user-attachments/assets/ba19cee6-bf34-4960-a7ea-f416d7a582e4)
 _Detailed book view with reviews, ratings, and option to add your own review_
 
 ### 🔐 Authentication
 
-![Login Modal](./docs/screenshots/login-modal.png)
+![Login Modal](https://github.com/user-attachments/assets/dfea7e13-8a88-4af9-86cf-1ad8b295e006)
+
 _Clean and secure login/register modal with form validation_
 
 ### ⭐ Review System
 
-![Add Review](./docs/screenshots/add-review.png)
+![Add Review](https://github.com/user-attachments/assets/0f0cc5a1-f37b-4e46-b690-1564b5d0db47)
+
 _Interactive review system with star rating and comment functionality_
 
 ### 👑 Admin Panel
 
-![Admin Panel](./docs/screenshots/admin-panel.png)
+![Admin Panel](https://github.com/user-attachments/assets/ffdf149b-0f14-4ae1-9226-623f1a9f3ddb)
 _Complete administrative interface for book and user management_
 
 ### 📱 Mobile Responsive
 
-![Mobile View](./docs/screenshots/mobile-view.png)
-_Fully responsive design optimized for mobile devices_
+![Mobile View](https://github.com/user-attachments/assets/5e20b920-1d75-4b5e-8d0a-b180237a85be)
 
-> **Note**: Screenshots are located in the `docs/screenshots/` directory. To update them, simply replace the images with the same filenames.
+_Fully responsive design optimized for mobile devices_
 
 ## 🎨 Design System
 
